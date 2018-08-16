@@ -1,6 +1,6 @@
 baseURL: https://apibill.me
 languageCode: en-us
-title: Simple API Monetization
+title: Simple API Billing
 theme: hugo-fresh
 
 params:
@@ -9,7 +9,7 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Simple API Monetization
+    title: Simple API Billing
     # Hero subtitle (optional)
     subtitle: Start billing today!
     # Button text
