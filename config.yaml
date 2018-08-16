@@ -42,7 +42,7 @@ params:
     subtitle: All the features hand-rolled just for you
     features:
     - title: Powerful open-source API Gateway
-      text: Built on KrakenD the fastest open-source API gateway that has the best features - like rate limting, OpenCensus, CORS, caching, no database(s), and more.
+      text: Built on KrakenD the fastest open-source API gateway that has the best features - like rate limting, OpenCensus, CORS, caching, no database dependency, and more.
       # Icon (from /images/illustrations/icons/___.svg)
       icon: laptop-globe
     - title: User Management and API Billing
