@@ -1,6 +1,6 @@
 baseURL: https://apibill.me
 languageCode: en-us
-title: apibillme
+title: Simple API Monetization
 theme: hugo-fresh
 
 params:
