@@ -18,11 +18,6 @@ params:
     buttonlink: "https://github.com/apibillme/apibillme-gateway"
     # Hero image (from /images/___)
     image: illustrations/worker.svg
-    # Footer logos (from /images/logos/clients/___.svg)
-    clientlogos:
-  # Customizable navbar. For a dropdown, add a "sublinks" list.
-  navbar:
-  sidebar:
   section1:
     title: Bill your API users
     subtitle: built on affordable platforms
