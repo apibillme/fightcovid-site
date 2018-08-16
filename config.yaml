@@ -1,0 +1,65 @@
+baseURL: https://apibill.me
+languageCode: en-us
+title: apibillme
+theme: hugo-fresh
+
+params:
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: Simple API Monetization
+    # Hero subtitle (optional)
+    subtitle: Start billing today!
+    # Button text
+    buttontext: Get started
+    # Where the main hero button links to
+    buttonlink: "https://github.com/apibillme/apibillme-gateway"
+    # Hero image (from /images/___)
+    image: illustrations/worker.svg
+    # Footer logos (from /images/logos/clients/___.svg)
+    clientlogos:
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  sidebar:
+  section1:
+    title: Bill your API users
+    subtitle: built on affordable platforms
+    tiles:
+    - title: Free Account
+      icon: auth0-blue
+      text: Identity provider
+      url: https://auth0.com
+      buttonText: Sign up
+    - title: Pay As You Go
+      icon: stripe-black
+      text: Billing provider
+      url: https://stripe.com
+      buttonText: Sign up
+    - title: Open Source
+      icon: krakend
+      text: API gateway
+      url: http://krakend.io
+      buttonText: Check it out
+  section2:
+    title: Make money quick
+    subtitle: All the features hand-rolled just for you
+    features:
+    - title: Powerful open-source API Gateway
+      text: Built on KrakenD the fastest open-source API gateway that has the best features - like rate limting, OpenCensus, CORS, caching, no database(s), and more.
+      # Icon (from /images/illustrations/icons/___.svg)
+      icon: laptop-globe
+    - title: User Management and API Billing
+      text: Full integration with Auth0 and Stripe - including Auth0 OIDC JWTs, Auth0 RBAC OAuth2 scopes, and Stripe subscriptions.
+      icon: doc-sync
+    - title: Deploy to your platform of choice
+      text: Supports Docker (all features), Bare Metal Linux (all features), and Apex Up on AWS Lambda (most features).
+      icon: mobile-feed
+  section3:
+    title: Bill today
+    subtitle: Really you can!
+    buttonText: Get started
+    buttonLink: "https://github.com/apibillme/apibillme-gateway"
+  section4:
+  footer:
