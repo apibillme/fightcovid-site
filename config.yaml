@@ -46,7 +46,7 @@ params:
       # Icon (from /images/illustrations/icons/___.svg)
       icon: laptop-globe
     - title: User Management and API Billing
-      text: Full integration with Auth0 and Stripe - including Auth0 OIDC JWTs (Autentication), Auth0 RBAC OAuth2 scopes (Authorization), and Stripe subscriptions.
+      text: Full integration with Auth0 and Stripe - including Auth0 OIDC JWTs (Authentication), Auth0 RBAC OAuth2 scopes (Authorization), and Stripe subscriptions.
       icon: doc-sync
     - title: Deploy to your platform of choice
       text: Supports Docker (all features), Bare Metal Linux (all features), and Apex Up on AWS Lambda (most features).
