@@ -15,7 +15,7 @@ params:
     # Button text
     buttontext: Get started
     # Where the main hero button links to
-    buttonlink: "https://github.com/apibillme/apibillme-gateway"
+    buttonlink: "https://github.com/apibillme/apibillme-gateway#readme"
     # Hero image (from /images/___)
     image: illustrations/worker.svg
   navbar:
@@ -59,6 +59,6 @@ params:
     title: Bill today
     subtitle: Really you can!
     buttonText: Get started
-    buttonLink: "https://github.com/apibillme/apibillme-gateway"
+    buttonLink: "https://github.com/apibillme/apibillme-gateway#readme"
   section4:
   footer:
