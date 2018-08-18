@@ -18,6 +18,10 @@ params:
     buttonlink: "https://github.com/apibillme/apibillme-gateway"
     # Hero image (from /images/___)
     image: illustrations/worker.svg
+  navbar:
+    - title: Contact Sales
+      url: mailto:sales@apibill.me
+      button: true
   section1:
     title: Bill your API users
     subtitle: built on affordable platforms
