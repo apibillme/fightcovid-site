@@ -3,15 +3,11 @@
 <div class="hero-foot mb-20">
   <div class="container">
     <div class="tabs is-centered">
-      <ul>
-        {{- range $clientLogos }}
-        <li>
-          <a>
-            <img class="partner-logo" src="{{ printf "/images/logos/clients/%s.svg" . | relURL }}">
-          </a>
-        </li>
-        {{- end }}
-      </ul>
+      <div class="column is-14">
+        <video controls autoplay>
+          <source src="/videos/apibillme.mp4" type="video/mp4">
+        </video>
+      </div>
     </div>
   </div>
 </div>
