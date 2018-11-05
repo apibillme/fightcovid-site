@@ -36,24 +36,18 @@ params:
       text: Billing provider
       url: https://stripe.com
       buttonText: Sign up
-    - title: Open Source
-      icon: krakend
-      text: API gateway
-      url: http://krakend.io
-      buttonText: Check it out
   section2:
     title: Make money quick
     subtitle: All the features hand-rolled just for you
     features:
-    - title: Powerful open-source API Gateway
-      text: Built on KrakenD the fastest open-source API gateway that has the best features - like rate limting, OpenCensus, CORS, caching, no database dependency, and more.
-      # Icon (from /images/illustrations/icons/___.svg)
+    - title: Middleware Ready for You
+      text: gin-gonic (ready), echo and express (upcoming)
       icon: laptop-globe
     - title: User Management and API Billing
       text: Full integration with Auth0 and Stripe - including Auth0 OIDC JWTs (Authentication), Auth0 RBAC OAuth2 scopes (Authorization), and Stripe subscriptions (Billing).
       icon: doc-sync
     - title: Deploy to your platform of choice
-      text: Supports Docker (all features), Bare Metal Linux (all features), and Apex Up on AWS Lambda (most features).
+      text: Docker, Bare Metal Linux, Apex Up on AWS Lambda, and etc.
       icon: mobile-feed
   section3:
     title: Bill today
