@@ -4,17 +4,14 @@
   
   <url>
     <loc>https://apibill.me/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://apibill.me/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://apibill.me/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
