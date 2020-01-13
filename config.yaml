@@ -1,6 +1,6 @@
 baseURL: https://apibill.me
 languageCode: en-us
-title: Open Source Lab
+title: API Solutions
 theme: hugo-fresh
 
 params:
