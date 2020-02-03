@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://apibill.me/</loc>
+  </url>
+  
+  <url>
     <loc>https://apibill.me/categories/</loc>
   </url>
   
   <url>
     <loc>https://apibill.me/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://apibill.me/</loc>
   </url>
   
 </urlset>
