@@ -11,7 +11,7 @@ params:
     # Main hero title
     title: Broker
     # Hero subtitle (optional)
-    subtitle: Real-time Zero Code API Server
+    subtitle: Real-time BaaS (Backend as a Service)
     # Button text
     buttontext: Get started
     # Where the main hero button links to
