@@ -47,7 +47,7 @@ params:
       text: Uses SSE, immutable events, and user authentication
       icon: doc-sync
     - title: Deploy to your platform of choice
-      text: Linux via Snap or Compile with Rust
+      text: Cross-platform Rust Crate
       icon: mobile-feed
   section3:
     title: Build Fast
