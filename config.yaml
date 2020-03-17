@@ -1,6 +1,6 @@
-baseURL: https://apibill.me
+baseURL: https://fightcovid.dev
 languageCode: en-us
-title: Best BaaS
+title: FightCovid
 theme: hugo-fresh
 
 params:
@@ -9,50 +9,36 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Broker
+    title: Fight Covid-19
     # Hero subtitle (optional)
-    subtitle: Real-time BaaS (Backend as a Service)
+    subtitle: Real-time Collaboration for Doctors World-Wide
     # Button text
-    buttontext: Get started
+    buttontext: Fund Now
     # Where the main hero button links to
     buttonlink: "https://crates.io/crates/broker"
     # Hero image (from /images/___)
     image: illustrations/worker.svg
   navbar:
-    - title: Start Now
+    - title: Fund Now
       url: https://github.com/apibillme
       button: false
-  section1:
-    title: Build web apps
-    subtitle: Super fast
-    tiles:
-    - title: Broker
-      icon: auth0-blue
-      text: Real-time BaaS (Backend as a Service)
-      url: https://crates.io/crates/broker
-      buttonText: View
-    - title: Tarp
-      icon: stripe-black
-      text: Rust Code Coverage
-      url: https://crates.io/crates/tarp
-      buttonText: View
   section2:
-    title: Build Web Apps Fast
-    subtitle: Front-end Coding Only
+    title: Real-time Collaboration
+    subtitle: with the medical community
     features:
-    - title: Zero Backend Code
-      text: Write only front-end code
+    - title: World-Wide Chat
+      text: Get the information you need
       icon: laptop-globe
-    - title: Real Time Evented Stream
-      text: Uses SSE, immutable events, and user authentication
+    - title: Verified and Approved Users
+      text: Only medical professionals
       icon: doc-sync
-    - title: Deploy to your platform of choice
-      text: Cross-platform Rust Crate
+    - title: Built on Open Source
+      text: Secure and Fast
       icon: mobile-feed
   section3:
-    title: Build Fast
-    subtitle: Starting now
-    buttonText: Get started
+    title: Fund Today
+    subtitle: Taking Donations
+    buttonText: Fund Now
     buttonLink: "https://crates.io/crates/broker"
   section4:
   footer:
