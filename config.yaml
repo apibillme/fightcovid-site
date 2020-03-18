@@ -25,11 +25,11 @@ params:
     - title: World-Wide Chat
       text: Get the information you need
       icon: laptop-globe
-    - title: Verified and Approved Users
-      text: Only medical professionals
+    - title: Secure and Real-time 
+      text: Uses cutting edge real-time technologies
       icon: doc-sync
     - title: Built on Open Source
-      text: Secure and Fast
+      text: No lock-in and free to use
       icon: mobile-feed
   section3:
     title: Fund Today
