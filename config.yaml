@@ -15,13 +15,9 @@ params:
     # Button text
     buttontext: Fund Now
     # Where the main hero button links to
-    buttonlink: "https://crates.io/crates/broker"
+    buttonlink: "https://www.gofundme.com/f/fightcovid?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1"
     # Hero image (from /images/___)
     image: illustrations/worker.svg
-  navbar:
-    - title: Fund Now
-      url: https://github.com/apibillme
-      button: false
   section2:
     title: Real-time Collaboration
     subtitle: with the medical community
@@ -39,6 +35,6 @@ params:
     title: Fund Today
     subtitle: Taking Donations
     buttonText: Fund Now
-    buttonLink: "https://crates.io/crates/broker"
+    buttonLink: "https://www.gofundme.com/f/fightcovid?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1"
   section4:
   footer:
