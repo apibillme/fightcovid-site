@@ -13,20 +13,20 @@ params:
     # Hero subtitle (optional)
     subtitle: Real-time Collaboration for Doctors World-Wide
     # Button text
-    buttontext: Fund Now
+    buttontext: Use Now
     # Where the main hero button links to
-    buttonlink: "https://www.gofundme.com/f/fightcovid?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1"
+    buttonlink: "https://broker.apibill.me"
     # Hero image (from /images/___)
     image: illustrations/worker.svg
   section2:
     title: Real-time Collaboration
     subtitle: with the medical community
     features:
-    - title: World-Wide Chat
+    - title: World-Wide Messaging
       text: Get the information you need
       icon: laptop-globe
     - title: Secure and Real-time 
-      text: End to End Encryption and real-time messaging
+      text: End to End Encryption, Anonymous, and real-time messaging
       icon: doc-sync
     - title: Built on Open Source
       text: No lock-in and free to use
