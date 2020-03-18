@@ -26,7 +26,7 @@ params:
       text: Get the information you need
       icon: laptop-globe
     - title: Secure and Real-time 
-      text: End to End Encryption, SSE, and immutable events
+      text: End to End Encryption and real-time messaging
       icon: doc-sync
     - title: Built on Open Source
       text: No lock-in and free to use
