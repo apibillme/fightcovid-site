@@ -32,9 +32,8 @@ params:
       text: No lock-in and free to use
       icon: mobile-feed
   section3:
-    title: Fund Today
-    subtitle: Taking Donations
-    buttonText: Fund Now
-    buttonLink: "https://www.gofundme.com/f/fightcovid?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1"
-  section4:
-  footer:
+    title: Live Today
+    subtitle: No Login Required
+    buttonText: Use Now
+    buttonLink: "https://broker.apibill.me"
+    
